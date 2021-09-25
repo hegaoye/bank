@@ -9,6 +9,6 @@ sys_conf = os.path.join(_basedir, 'sys.conf')
 # cachedata 缓存文件
 cache_json = os.path.join(_basedir, 'cache.json')
 
-BROWSER_PATH=os.path.join(_basedir, 'chromedriver')
+BROWSER_PATH=os.path.join(_basedir, 'chromedriver.exe')
 
 del os
